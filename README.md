@@ -16,7 +16,7 @@ for the TF API and xml_to_csv.py is used to convert the xml files into one csv
 split labels is used to split the full labels into train and test labels
 ```
 
-# This Blog 'https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9' explains how do we do object detection using Google Object Detection API and make use of this data.
+* This Blog 'https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9' explains how do we do object detection using Google Object Detection API and make use of this data.
 
 
 ## Copyright
